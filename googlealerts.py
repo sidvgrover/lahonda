@@ -8,7 +8,8 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from EmailDigestAPI import EmailDigestAPI
 
-LA_HONDA_ALERTS_URLS = {"https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
+LA_HONDA_ALERTS_URLS = {
+"https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
 "https://www.google.com/alerts/feeds/02062406705762041312/17347623085535544058": "Automic",
 "https://www.google.com/alerts/feeds/02062406705762041312/15671211174766790806": "Bizagi",
 "https://www.google.com/alerts/feeds/020624067057620413121/5451535100808537977": "User Testing",
