@@ -15,7 +15,36 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/3626046738560358261": "Denali Advanced Integration", 
 "https://www.google.com/alerts/feeds/13466654299695330520/18299370789804107852": "Integrated Archive Systems", 
 "https://www.google.com/alerts/feeds/13466654299695330520/4741467760900212027": "GroupWare", 
-	
+"https://www.google.com/alerts/feeds/13466654299695330520/6029716097834067331": "Blue Chip Tek", 
+"https://www.google.com/alerts/feeds/13466654299695330520/6029716097834068590": "Bedrock Technology Partners", 
+"https://www.google.com/alerts/feeds/13466654299695330520/8665283408024576059": "Enterprise Vision Technologies",
+"https://www.google.com/alerts/feeds/13466654299695330520/11384353388350349739": "Entisys360", 
+"https://www.google.com/alerts/feeds/13466654299695330520/12743713329663882141": "Kovarus", 
+"https://www.google.com/alerts/feeds/13466654299695330520/12743713329663882106": "Insight Investments", 
+"https://www.google.com/alerts/feeds/13466654299695330520/6377559386693398851": "Dasher Technologies", 
+"https://www.google.com/alerts/feeds/13466654299695330520/9973157840582836927": "ECS Imaging Inc.", 
+"https://www.google.com/alerts/feeds/13466654299695330520/9973157840582839109": "Nth Generation Computing", 
+"https://www.google.com/alerts/feeds/13466654299695330520/11276258610200309812": "Zones", 
+"https://www.google.com/alerts/feeds/13466654299695330520/11325695364949154161": "PC Connection", 
+"https://www.google.com/alerts/feeds/13466654299695330520/13987126433168920890": "Softchoice", 
+"https://www.google.com/alerts/feeds/13466654299695330520/5810579531890136314": "World Wide Technology", 
+"https://www.google.com/alerts/feeds/13466654299695330520/13557375106724817821": "3RP Solutions", 
+"https://www.google.com/alerts/feeds/13466654299695330520/11962719138877261432": "Business IT Source", 
+"https://www.google.com/alerts/feeds/13466654299695330520/5492712225867939228": "eGroup",
+"https://www.google.com/alerts/feeds/13466654299695330520/18304040471736823950": "High Point Networks", 
+"https://www.google.com/alerts/feeds/13466654299695330520/18304040471736824118": "Myriad Supply", 
+"https://www.google.com/alerts/feeds/13466654299695330520/513645705325212977": "Carahsoft", 
+"https://www.google.com/alerts/feeds/13466654299695330520/9631845521440810943": "Avanade",
+"https://www.google.com/alerts/feeds/13466654299695330520/4760693138674747819": "Iron Bow Technologies",
+"https://www.google.com/alerts/feeds/13466654299695330520/8050474147697364694": "CcIntegration", 
+"https://www.google.com/alerts/feeds/13466654299695330520/860697833214560117": "Layer 3 Communications", 
+"https://www.google.com/alerts/feeds/13466654299695330520/10729875605318364586": "Hawk Ridge Systems", 
+"https://www.google.com/alerts/feeds/13466654299695330520/6581263688812950116": "Presidio", 
+
+
+
+
+
 "https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
 "https://www.google.com/alerts/feeds/02062406705762041312/17347623085535544058": "Automic",
 "https://www.google.com/alerts/feeds/02062406705762041312/15671211174766790806": "Bizagi",
