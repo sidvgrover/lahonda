@@ -9,6 +9,13 @@ from bs4 import BeautifulSoup
 from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
+	
+"https://www.google.com/alerts/feeds/13466654299695330520/477734780287099036": "Fusionstorm", 
+"https://www.google.com/alerts/feeds/13466654299695330520/2889460546644572078": "Trace3", 
+"https://www.google.com/alerts/feeds/13466654299695330520/3626046738560358261": "Denali Advanced Integration", 
+"https://www.google.com/alerts/feeds/13466654299695330520/18299370789804107852": "Integrated Archive Systems", 
+"https://www.google.com/alerts/feeds/13466654299695330520/4741467760900212027": "GroupWare", 
+	
 "https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
 "https://www.google.com/alerts/feeds/02062406705762041312/17347623085535544058": "Automic",
 "https://www.google.com/alerts/feeds/02062406705762041312/15671211174766790806": "Bizagi",
