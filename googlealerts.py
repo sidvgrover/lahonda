@@ -240,7 +240,7 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/11127422907426618749":    "gemini solutions",
 "https://www.google.com/alerts/feeds/02062406705762041312/7395578459586164283": "fullarmor",
 "https://www.google.com/alerts/feeds/02062406705762041312/13247670572481404415":    "freshbooks",
-"https://www.google.com/alerts/feeds/02062406705762041312/109613453342848590":  "fracturedme.com",
+#"https://www.google.com/alerts/feeds/02062406705762041312/109613453342848590":  "fracturedme.com",
 "https://www.google.com/alerts/feeds/02062406705762041312/109613453342847149":  "four winds interactive",
 "https://www.google.com/alerts/feeds/02062406705762041312/1914311863843569760": "flowgear",
 "https://www.google.com/alerts/feeds/02062406705762041312/16279816956832154522":    "etwater",
