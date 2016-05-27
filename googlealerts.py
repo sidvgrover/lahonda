@@ -43,23 +43,40 @@ LA_HONDA_ALERTS_URLS = {
 #"https://www.google.com/alerts/feeds/13466654299695330520/6581263688812950116": "Presidio", 
 #VAR Target List New End
 
-#Deloitee 500 2015 End
-#"https://www.google.com/alerts/feeds/13466654299695330520/4850408063435830141": "Grandstream Networks", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/18364391379436489053": "iotum", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/3255842298465082936": "Prepay Nation", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/3409737907906469306": "Proficio", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/6052150560710755834": "TeleWorld Solutions", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/7155257377141403999": "180fusion", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/7953061017660228717": "Accordant Media", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/7953061017660229352": "Addictive Mobility", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/12362452210313028686": "Adrenaline Amusements", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/9324652102249507347": "AdTheorent", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/12362452210313031588": "Budge Studos", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/55631883025841140": "ContextMedia", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/434444474178196388": "Digital Extremes", 
-#"https://www.google.com/alerts/feeds/13466654299695330520/5033217704638670662": "JUICE Mobile", 
+#NEW Beg
+"https://www.google.com/alerts/feeds/13466654299695330520/10051877883879485662": "3DCart", 
+: "3xLOGIC", 
+: "Access Softek", 
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
+: "",
 
-#Deloitee 500 2015 End (Not Done adding) 
+
+#NEW end
+
+
+
+
+
+
+
 
 
 
