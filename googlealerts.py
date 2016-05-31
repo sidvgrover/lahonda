@@ -10,7 +10,7 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-#NEW Beg
+
 "https://www.google.com/alerts/feeds/13466654299695330520/10051877883879485662": "3DCart", 
 "https://www.google.com/alerts/feeds/13466654299695330520/13557375106724817821": "3RP Solutions"; 
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063709873": "3xLOGIC", 
@@ -125,22 +125,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/10761418093650954471": "WeWork", 
 "https://www.google.com/alerts/feeds/13466654299695330520/5173561638742355964": "Zomazz", 
 
-
-
-
-
-
-#NEW end
-
-
-
-
-
-
-
-
-
-
 "https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
 "https://www.google.com/alerts/feeds/02062406705762041312/17347623085535544058": "Automic",
 "https://www.google.com/alerts/feeds/02062406705762041312/15671211174766790806": "Bizagi",
@@ -168,7 +152,7 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/5746718541562635731": "Virtuos Ltd.",
 "https://www.google.com/alerts/feeds/02062406705762041312/5746718541562635919": "Virool",
 "https://www.google.com/alerts/feeds/02062406705762041312/18334767804339456745":    "VigilNet Community Monitoring",
-"https://www.google.com/alerts/feeds/02062406705762041312/5701420191287790796": "Vertical Systems",
+#"https://www.google.com/alerts/feeds/02062406705762041312/5701420191287790796": "Vertical Systems",
 "https://www.google.com/alerts/feeds/02062406705762041312/4021406299706766443": "Unbounce",
 "https://www.google.com/alerts/feeds/02062406705762041312/8233567744689238324": "Ubiquity Global Services",
 "https://www.google.com/alerts/feeds/02062406705762041312/4021406299706767568": "Tutela Tech",
@@ -179,7 +163,7 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/5740363056375728928": "Talend",
 "https://www.google.com/alerts/feeds/02062406705762041312/3722266231542023458": "Systems in Motion",
 "https://www.google.com/alerts/feeds/02062406705762041312/3722266231542023054": "Survey Analytics",
-"https://www.google.com/alerts/feeds/02062406705762041312/10682813675916038701":    "Sureline Sytems",
+#"https://www.google.com/alerts/feeds/02062406705762041312/10682813675916038701":    "Sureline Sytems",
 "https://www.google.com/alerts/feeds/02062406705762041312/1782326813927721914": "SugarCRM",
 "https://www.google.com/alerts/feeds/02062406705762041312/632202047199448876":  "stat Health Services",
 "https://www.google.com/alerts/feeds/02062406705762041312/3088495681118562133": "Smule",
@@ -190,11 +174,11 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/12883977902754345668":    "Sift Shopping",
 "https://www.google.com/alerts/feeds/02062406705762041312/10010665971850991801":    "Schedulicity",
 "https://www.google.com/alerts/feeds/02062406705762041312/10010665971850993571":    "Rolith",
-"https://www.google.com/alerts/feeds/02062406705762041312/9919732738508487404": "Roamware",
+#"https://www.google.com/alerts/feeds/02062406705762041312/9919732738508487404": "Roamware",
 "https://www.google.com/alerts/feeds/02062406705762041312/692729505549121703":  "Referral Saasquatch",
 "https://www.google.com/alerts/feeds/02062406705762041312/692729505549121730":  "RedBubble",
 "https://www.google.com/alerts/feeds/02062406705762041312/17193276624174069073":    "Recorded Future",
-"https://www.google.com/alerts/feeds/02062406705762041312/17193276624174068920":    "Recon Instruments",
+#"https://www.google.com/alerts/feeds/02062406705762041312/17193276624174068920":    "Recon Instruments",
 "https://www.google.com/alerts/feeds/02062406705762041312/8436229574644343393": "Recommind",
 "https://www.google.com/alerts/feeds/02062406705762041312/1759710790041120949": "Realty Mogul",
 "https://www.google.com/alerts/feeds/02062406705762041312/6991931469844997335": "Radiant Logic",
@@ -230,7 +214,7 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/3577793260310607629": "joyent",
 "https://www.google.com/alerts/feeds/02062406705762041312/200946860401571985":  "jamcracker",
 "https://www.google.com/alerts/feeds/02062406705762041312/200946860401570976":  "interneer",
-"https://www.google.com/alerts/feeds/02062406705762041312/8608874187962445793": "internet roi",
+#"https://www.google.com/alerts/feeds/02062406705762041312/8608874187962445793": "internet roi",
 "https://www.google.com/alerts/feeds/02062406705762041312/3826162343940337764": "integrated biometrics",
 "https://www.google.com/alerts/feeds/02062406705762041312/6223083195894846682": "ins zoom",
 "https://www.google.com/alerts/feeds/02062406705762041312/16776894766737984906":    "inriver",
@@ -250,7 +234,7 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/1126258742458971627": "Moment Design",
 "https://www.google.com/alerts/feeds/02062406705762041312/5657753612956061956": "SunCentral",
 "https://www.google.com/alerts/feeds/02062406705762041312/9204548976826551664": "XG sciences",
-"https://www.google.com/alerts/feeds/02062406705762041312/12510595579474040014": "Intervision",
+#"https://www.google.com/alerts/feeds/02062406705762041312/12510595579474040014": "Intervision",
 "https://www.google.com/alerts/feeds/02062406705762041312/2072179285307919018": "Kiip",
 "https://www.google.com/alerts/feeds/02062406705762041312/7019550178776333209": "Sojern",
 "https://www.google.com/alerts/feeds/02062406705762041312/7019550178776333510": "Xirrus",
@@ -270,12 +254,12 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/8233567744689240336": "ActMobile",
 "https://www.google.com/alerts/feeds/02062406705762041312/4021406299706765511": "Armanta",
 "https://www.google.com/alerts/feeds/02062406705762041312/6751348586596979261": "Leeyo",
-"https://www.google.com/alerts/feeds/02062406705762041312/5238135823142396240": "Q1Media",
+#"https://www.google.com/alerts/feeds/02062406705762041312/5238135823142396240": "Q1Media",
 "https://www.google.com/alerts/feeds/02062406705762041312/5238135823142398697": "Search Technologies",
 "https://www.google.com/alerts/feeds/02062406705762041312/5740363056375729869": "Secure64",
 "https://www.google.com/alerts/feeds/02062406705762041312/16371578590400077312": "Soraa",
 "https://www.google.com/alerts/feeds/02062406705762041312/3722266231542024170": "Spotify",
-"https://www.google.com/alerts/feeds/02062406705762041312/10682813675916039401": "TigerText",
+#"https://www.google.com/alerts/feeds/02062406705762041312/10682813675916039401": "TigerText",
 #"https://www.google.com/alerts/feeds/02062406705762041312/17365579478526992457": "Elk River Systems",
 "https://www.google.com/alerts/feeds/02062406705762041312/1782326813927722798": "Scribblelive",
 "https://www.google.com/alerts/feeds/02062406705762041312/5228429197450360129": "360pi",
@@ -297,15 +281,15 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/8436229574644345338": "eShipGlobal",
 "https://www.google.com/alerts/feeds/02062406705762041312/8436229574644345728": "Fuhu",
 # "https://www.google.com/alerts/feeds/02062406705762041312/2718969084101024173": "Good Technology",
-"https://www.google.com/alerts/feeds/02062406705762041312/2718969084101022743": "HeartMath",
+#"https://www.google.com/alerts/feeds/02062406705762041312/2718969084101022743": "HeartMath",
 "https://www.google.com/alerts/feeds/02062406705762041312/12930299050015098788": "iboss",
-"https://www.google.com/alerts/feeds/02062406705762041312/2537868182094187908": "Infolinks",
+#"https://www.google.com/alerts/feeds/02062406705762041312/2537868182094187908": "Infolinks",
 "https://www.google.com/alerts/feeds/02062406705762041312/10429503542873435873": "Inside Vault",
 "https://www.google.com/alerts/feeds/02062406705762041312/9845147377187965561": "Kontiki",
 "https://www.google.com/alerts/feeds/02062406705762041312/14596073740068426969": "Meltwater",
 "https://www.google.com/alerts/feeds/02062406705762041312/12317356517016336115": "Mobify",
 "https://www.google.com/alerts/feeds/02062406705762041312/3368120317282496202": "Outsystems",
-"https://www.google.com/alerts/feeds/02062406705762041312/11041838645369549994": "PetersenDean",
+#"https://www.google.com/alerts/feeds/02062406705762041312/11041838645369549994": "PetersenDean",
 "https://www.google.com/alerts/feeds/02062406705762041312/14534779934515597310": "Quantifind",
 "https://www.google.com/alerts/feeds/02062406705762041312/11697718741169257071": "Quixey",
 "https://www.google.com/alerts/feeds/02062406705762041312/9798962351390451465": "RGB Spectrum",
@@ -315,14 +299,14 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/15634272773826690271": "ShareThrough",
 "https://www.google.com/alerts/feeds/02062406705762041312/1952998804414674328": "ShippingEasy",
 "https://www.google.com/alerts/feeds/02062406705762041312/4248703195252150694": "TraceSecurity",
-"https://www.google.com/alerts/feeds/02062406705762041312/17870585110378373068": "Trueffect",
+#"https://www.google.com/alerts/feeds/02062406705762041312/17870585110378373068": "Trueffect",
 # "https://www.google.com/alerts/feeds/02062406705762041312/9959723930708512576": "Turn",
 #"https://www.google.com/alerts/feeds/02062406705762041312/6040473229954067858": "Adconion",
 "https://www.google.com/alerts/feeds/02062406705762041312/14199054692078207438": "VoiceBox Technologies",
-"https://www.google.com/alerts/feeds/02062406705762041312/8541155846467231691": "Xamarin",
-"https://www.google.com/alerts/feeds/02062406705762041312/16282961076157299363": "zSpace",
+#"https://www.google.com/alerts/feeds/02062406705762041312/8541155846467231691": "Xamarin",
+#"https://www.google.com/alerts/feeds/02062406705762041312/16282961076157299363": "zSpace",
 #"https://www.google.com/alerts/feeds/02062406705762041312/8829297520172324704": "Appthority",
-"https://www.google.com/alerts/feeds/02062406705762041312/16763980993319175496": "Sikka Software",
+#"https://www.google.com/alerts/feeds/02062406705762041312/16763980993319175496": "Sikka Software",
 "https://www.google.com/alerts/feeds/02062406705762041312/9088983416957814343": "3esi",
 "https://www.google.com/alerts/feeds/02062406705762041312/866446058370717187": "Acclivity",
 "https://www.google.com/alerts/feeds/02062406705762041312/18391294624796254": "Acquia",
