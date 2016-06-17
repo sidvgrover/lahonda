@@ -302,49 +302,29 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/9342015003890982679": "Encepta",
 "https://www.google.com/alerts/feeds/02062406705762041312/8169993311602351141": "Engine Yard",
 "https://www.google.com/alerts/feeds/02062406705762041312/2641415568862031826": "Enprecis",
-"https://www.google.com/alerts/feeds/02062406705762041312/6503229101590592373": "Electric Cloud"
-"Innovolt"
-"Plex"
-"Deque"
-"Digital Air Strike Marketing"
-"eXplorance
-
-"Grandstream Networks
-
-"Haivision
-
-"Halfpenny Technologies
-
-"Impact Financial Systems
-
-"Ingenious Med
-
-"Innovest Systems
-
-"Intelex
-
-"iotum
-
-"PC Connection
-
-"World Wide Technology
-
-"gravitytank
-
-"Cooper
-
-
-"Igloo Software
-
-"Think Passenger
-
-"Sift Shopping
-"Turn Marketing"
-"Vitria Technology Inc"
-
-
-
-
+"https://www.google.com/alerts/feeds/02062406705762041312/6503229101590592373": "Electric Cloud",
+"https://www.google.com/alerts/feeds/13466654299695330520/4038571174568239769":"Innovolt",
+"https://www.google.com/alerts/feeds/13466654299695330520/8116805304637372476":"Plex Media",
+"https://www.google.com/alerts/feeds/13466654299695330520/1103487255186077813":"Deque Systems",
+"https://www.google.com/alerts/feeds/13466654299695330520/14526097733999371029":"Digital Air Strike Marketing",
+"https://www.google.com/alerts/feeds/13466654299695330520/5194078567190119068":"eXplorance",
+:"Grandstream Networks",
+:"Haivision",
+:"Halfpenny Technologies",
+:"Impact Financial Systems",
+:"Ingenious Med",
+:"Innovest Systems",
+:"Intelex",
+:"iotum",
+:"PC Connection",
+:"World Wide Technology",
+:"gravitytank",
+:"Cooper",
+:"IglooSoftware",
+:"Think Passenger",
+:"Sift Shopping",
+:"Turn Marketing",
+:"Vitria Technology Inc",
 
 }
 
