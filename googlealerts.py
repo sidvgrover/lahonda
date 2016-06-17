@@ -205,7 +205,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/17396427411805734271":    "Kubicam",
 "https://www.google.com/alerts/feeds/02062406705762041312/6575616247985574918": "Knowledge Marketing",
 "https://www.google.com/alerts/feeds/02062406705762041312/17396427411805735603":    "KeyedIn Solutions",
-"https://www.google.com/alerts/feeds/02062406705762041312/3577793260310607629": "joyent",
 "https://www.google.com/alerts/feeds/02062406705762041312/200946860401571985":  "jamcracker",
 "https://www.google.com/alerts/feeds/02062406705762041312/200946860401570976":  "interneer",
 "https://www.google.com/alerts/feeds/02062406705762041312/3826162343940337764": "integrated biometrics",
