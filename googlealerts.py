@@ -115,12 +115,10 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/6979358158246694090": "TouchSuite", 
 "https://www.google.com/alerts/feeds/13466654299695330520/2889460546644572078": "Trace3", 
 "https://www.google.com/alerts/feeds/13466654299695330520/9546397065877350527": "TRX", 
-"https://www.google.com/alerts/feeds/13466654299695330520/4435498697149565755": "Turn Marketing", 
 "https://www.google.com/alerts/feeds/13466654299695330520/2645318899423341838": "Velodyne", 
 "https://www.google.com/alerts/feeds/13466654299695330520/15654298440115524397": "VIA Motors", 
 "https://www.google.com/alerts/feeds/13466654299695330520/10761418093650954471": "WeWork", 
 "https://www.google.com/alerts/feeds/13466654299695330520/5173561638742355964": "Zomazz", 
-
 "https://www.google.com/alerts/feeds/02062406705762041312/5451535100808539110": "Zinio",
 "https://www.google.com/alerts/feeds/02062406705762041312/17347623085535544058": "Automic",
 "https://www.google.com/alerts/feeds/02062406705762041312/15671211174766790806": "Bizagi",
@@ -319,12 +317,12 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/3925966518163966447":"PC Connection PCCC",
 "https://www.google.com/alerts/feeds/13466654299695330520/5810579531890136314":"World Wide Technology",
 "https://www.google.com/alerts/feeds/13466654299695330520/15955123983804453751":"gravitytank",
-:"Cooper",
-:"IglooSoftware",
-:"Think Passenger",
-:"Sift Shopping",
-:"Turn Marketing",
-:"Vitria Technology Inc",
+"https://www.google.com/alerts/feeds/13466654299695330520/749013797226874438":"Cooper Technology",
+"https://www.google.com/alerts/feeds/13466654299695330520/7864614278597615906":"Igloo Software",
+"https://www.google.com/alerts/feeds/13466654299695330520/1190946517984484525":"Think Passenger",
+"https://www.google.com/alerts/feeds/13466654299695330520/5937813447947498127":"Sift Shopping",
+"https://www.google.com/alerts/feeds/13466654299695330520/4435498697149565755":"Turn Marketing",
+"https://www.google.com/alerts/feeds/13466654299695330520/2602515567548598041":"Vitria Technology Inc",
 
 }
 
