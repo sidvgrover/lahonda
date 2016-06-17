@@ -303,6 +303,49 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/8169993311602351141": "Engine Yard",
 "https://www.google.com/alerts/feeds/02062406705762041312/2641415568862031826": "Enprecis",
 "https://www.google.com/alerts/feeds/02062406705762041312/6503229101590592373": "Electric Cloud"
+"Innovolt"
+"Plex"
+"Deque"
+"Digital Air Strike Marketing"
+"eXplorance
+
+"Grandstream Networks
+
+"Haivision
+
+"Halfpenny Technologies
+
+"Impact Financial Systems
+
+"Ingenious Med
+
+"Innovest Systems
+
+"Intelex
+
+"iotum
+
+"PC Connection
+
+"World Wide Technology
+
+"gravitytank
+
+"Cooper
+
+
+"Igloo Software
+
+"Think Passenger
+
+"Sift Shopping
+"Turn Marketing"
+"Vitria Technology Inc"
+
+
+
+
+
 }
 
 def removeHTMLTags(data):
