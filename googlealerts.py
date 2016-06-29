@@ -401,8 +401,6 @@ def createSpreadsheet():
 USERNAME = 'sorcererdailyupdate@gmail.com'
 PASSWORD = 'CrothersStoreySidDrew2015'
 DAVID_EMAIL = ['david@lahondaadvisors.com']
-WILL_EMAIL = ['will@lahondaadvisors.com']
-ERIC_EMAIL = ['eric@lahondaadvisors.com']
 
 def main():
 	  createSpreadsheet()
@@ -413,8 +411,7 @@ def main():
 
 	  email_digest = EmailDigestAPI(USERNAME, PASSWORD)
 	  email_digest.send_mail(DAVID_EMAIL, subject, email_body, files = [wbname])
-	  email_digest.send_mail(WILL_EMAIL, subject, email_body, files = [wbname])
-	  email_digest.send_mail(ERIC_EMAIL, subject, email_body, files = [wbname])
+
 
 if __name__ == "__main__":
 	  main()
