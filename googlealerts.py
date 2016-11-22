@@ -10,8 +10,7 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-
-"https://www.google.com/alerts/feeds/13466654299695330520/10051877883879485662": "3DCart", 
+ 
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063709873": "3xLOGIC", 
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063712363": "Access Softek", 
 "https://www.google.com/alerts/feeds/13466654299695330520/7953061017660228717": "Accordant Media",
@@ -30,7 +29,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/11436489709049132119": "BrightSign",
 "https://www.google.com/alerts/feeds/13466654299695330520/11962719138877261432": "Business IT Source", 
 "https://www.google.com/alerts/feeds/13466654299695330520/6959141662227606985": "Candi Controls",
-"https://www.google.com/alerts/feeds/13466654299695330520/5875890018406769333": "Card Compliant",
 "https://www.google.com/alerts/feeds/13466654299695330520/8050474147697364694": "CcIntegration", 
 "https://www.google.com/alerts/feeds/13466654299695330520/17666209018888937196": "Clarifire",
 "https://www.google.com/alerts/feeds/13466654299695330520/2334941422965611524": "Cloud Cruiser",
@@ -84,13 +82,11 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/9973157840582839109": "Nth Generation Computing", 
 "https://www.google.com/alerts/feeds/13466654299695330520/10038241897902526473": "Numecent", 
 "https://www.google.com/alerts/feeds/13466654299695330520/8363628837348710371": "Oddz",
-"https://www.google.com/alerts/feeds/13466654299695330520/17648803977459918083": "On-Site", 
 "https://www.google.com/alerts/feeds/13466654299695330520/8536906125741608356": "Open Systems International", 
 "https://www.google.com/alerts/feeds/13466654299695330520/16094236708637318511": "Orasi", 
 "https://www.google.com/alerts/feeds/13466654299695330520/15911493296506074862": "Think Passenger", 
 "https://www.google.com/alerts/feeds/13466654299695330520/8116805304637372476": "Plex Media", 
 "https://www.google.com/alerts/feeds/13466654299695330520/5072251280735711728": "Pluribus Networks", 
-"https://www.google.com/alerts/feeds/13466654299695330520/10787686609008016871": "Polaris", 
 "https://www.google.com/alerts/feeds/13466654299695330520/8340627479340479870": "Practice Velocity", 
 "https://www.google.com/alerts/feeds/13466654299695330520/16640446566158017434": "Pragmatic Works software", 
 "https://www.google.com/alerts/feeds/13466654299695330520/6581263688812950116": "Presidio", 
@@ -290,7 +286,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/7638990815327381860": "Comilion",
 "https://www.google.com/alerts/feeds/02062406705762041312/12487352408347965472": "Continuum Analytics",
 "https://www.google.com/alerts/feeds/02062406705762041312/15618437625746337895": "CTC America",
-"https://www.google.com/alerts/feeds/02062406705762041312/57166365469168311": "David Corporation",
 "https://www.google.com/alerts/feeds/02062406705762041312/16479446172795132828": "Digital Defense",
 "https://www.google.com/alerts/feeds/02062406705762041312/9802622504040440941": "Digital Dream Labs",
 "https://www.google.com/alerts/feeds/02062406705762041312/2308958562630037518": "Dwell Media",
