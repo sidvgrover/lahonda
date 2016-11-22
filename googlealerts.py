@@ -11,6 +11,8 @@ from EmailDigestAPI import EmailDigestAPI
 LA_HONDA_ALERTS_URLS = {
 
  
+
+"https://www.google.com/alerts/feeds/01881685235415088200/619459383223154454": "Altova",	
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063709873": "3xLOGIC", 
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063712363": "Access Softek", 
 "https://www.google.com/alerts/feeds/13466654299695330520/7953061017660228717": "Accordant Media",
