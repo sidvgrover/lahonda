@@ -10,8 +10,15 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
- 
 
+	
+"https://www.google.com/alerts/feeds/01881685235415088200/5355354714045597794": "Neudesic",	
+"https://www.google.com/alerts/feeds/01881685235415088200/16022778460001054677": "Mavenlink",
+"https://www.google.com/alerts/feeds/01881685235415088200/9488590286302457472": "Loot Crate",	
+"https://www.google.com/alerts/feeds/01881685235415088200/17845762241566517103": "Interface Masters Technologies",
+"https://www.google.com/alerts/feeds/01881685235415088200/6401573801981596389": "Insurance Technologies",
+"https://www.google.com/alerts/feeds/01881685235415088200/3403340439658937800": "Chiro Touch",
+"https://www.google.com/alerts/feeds/01881685235415088200/8302565038833926521": "Cavirin",
 "https://www.google.com/alerts/feeds/01881685235415088200/619459383223154454": "Altova",	
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063709873": "3xLOGIC", 
 "https://www.google.com/alerts/feeds/13466654299695330520/14971857197063712363": "Access Softek", 
