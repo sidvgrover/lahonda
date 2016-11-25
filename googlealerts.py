@@ -10,10 +10,18 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-
 	
 	
-	
+"https://www.google.com/alerts/feeds/01881685235415088200/6650792899457161051": "Securonix",	
+"https://www.google.com/alerts/feeds/01881685235415088200/6650792899457160317": "QuoteWizard",
+"https://www.google.com/alerts/feeds/01881685235415088200/15119189875483697850": "LookbookHQ",	
+"https://www.google.com/alerts/feeds/01881685235415088200/4037389486826159765": "Liquidware Labs",
+"https://www.google.com/alerts/feeds/01881685235415088200/1416208555085607366": "Ion Interactive",	
+"https://www.google.com/alerts/feeds/01881685235415088200/566334841030510822": "InfoObjects",	
+"https://www.google.com/alerts/feeds/01881685235415088200/8537403745645558629": "IMPRES Technology Solutions",	
+"https://www.google.com/alerts/feeds/01881685235415088200/5380929414551813195": "Digital Air Strike",	
+"https://www.google.com/alerts/feeds/01881685235415088200/9740695934544709550": "Deque Systems",	
+"https://www.google.com/alerts/feeds/01881685235415088200/15368891700584012547": "DemandGen",	
 "https://www.google.com/alerts/feeds/01881685235415088200/10803326371220709970": "DatafactZ",
 "https://www.google.com/alerts/feeds/01881685235415088200/8155334016307805355": "Cloudwick",	
 "https://www.google.com/alerts/feeds/01881685235415088200/8155334016307804117": "Brandify",	
