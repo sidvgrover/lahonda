@@ -10,8 +10,15 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-
 	
+	
+	
+"https://www.google.com/alerts/feeds/01881685235415088200/10949992027258364775": "Zinio",	
+"https://www.google.com/alerts/feeds/01881685235415088200/7984199580008752792": "Veriship",	
+"https://www.google.com/alerts/feeds/01881685235415088200/10949992027258366914": "Vormittag Associates",	
+"https://www.google.com/alerts/feeds/01881685235415088200/16719674260391889643": "Shotspotter",	
+"https://www.google.com/alerts/feeds/01881685235415088200/713129825002064231": "Ridebidz",
+"https://www.google.com/alerts/feeds/01881685235415088200/713129825002064978": "Revstream",	
 "https://www.google.com/alerts/feeds/01881685235415088200/5355354714045597794": "Neudesic",	
 "https://www.google.com/alerts/feeds/01881685235415088200/16022778460001054677": "Mavenlink",
 "https://www.google.com/alerts/feeds/01881685235415088200/9488590286302457472": "Loot Crate",	
