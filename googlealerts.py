@@ -10,9 +10,19 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
+
 	
 	
 	
+"https://www.google.com/alerts/feeds/01881685235415088200/10803326371220709970": "DatafactZ",
+"https://www.google.com/alerts/feeds/01881685235415088200/8155334016307805355": "Cloudwick",	
+"https://www.google.com/alerts/feeds/01881685235415088200/8155334016307804117": "Brandify",	
+"https://www.google.com/alerts/feeds/01881685235415088200/14986475557110171124": "Balsam Brands",	
+"https://www.google.com/alerts/feeds/01881685235415088200/68235837086144483": "Ataccama",	
+"https://www.google.com/alerts/feeds/01881685235415088200/13162754668150338994": "Arbitech",	
+"https://www.google.com/alerts/feeds/01881685235415088200/6386333973038079855": "AMain",	
+"https://www.google.com/alerts/feeds/01881685235415088200/13689024525564415671": "Allied Wallet",	
+"https://www.google.com/alerts/feeds/01881685235415088200/10471595259234386576": "10ZiG Technology",	
 "https://www.google.com/alerts/feeds/01881685235415088200/10949992027258364775": "Zinio",	
 "https://www.google.com/alerts/feeds/01881685235415088200/7984199580008752792": "Veriship",	
 "https://www.google.com/alerts/feeds/01881685235415088200/10949992027258366914": "Vormittag Associates",	
