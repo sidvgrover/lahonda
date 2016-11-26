@@ -10,8 +10,13 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-	
-	
+"https://www.google.com/alerts/feeds/01881685235415088200/2947890462845478231": "Cooper Technology",
+"https://www.google.com/alerts/feeds/01881685235415088200/14676584507752268591": "AppScale", 	
+"https://www.google.com/alerts/feeds/01881685235415088200/9895832409332369961": "Leeyo Software",	
+"https://www.google.com/alerts/feeds/01881685235415088200/9895832409332370582": "Anova",	
+"https://www.google.com/alerts/feeds/01881685235415088200/14125290742422295994": "Starview",	
+"https://www.google.com/alerts/feeds/01881685235415088200/10383856931979509078": "Soft Facade",	
+"https://www.google.com/alerts/feeds/01881685235415088200/13483307918268297313": "SEMrush",	
 "https://www.google.com/alerts/feeds/01881685235415088200/6650792899457161051": "Securonix",	
 "https://www.google.com/alerts/feeds/01881685235415088200/6650792899457160317": "QuoteWizard",
 "https://www.google.com/alerts/feeds/01881685235415088200/15119189875483697850": "LookbookHQ",	
