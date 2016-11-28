@@ -10,7 +10,16 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
-	
+"https://www.google.com/alerts/feeds/01881685235415088200/14115942879497787873": "Polaris Wireless",
+"https://www.google.com/alerts/feeds/01881685235415088200/2130808873652481474": "PK4 Media",	
+"https://www.google.com/alerts/feeds/01881685235415088200/2130808873652479174": "Palo Alto Software",	
+"https://www.google.com/alerts/feeds/01881685235415088200/13241143637501297070": "Nominum",	
+"https://www.google.com/alerts/feeds/01881685235415088200/17196160893349309111": "NextLabs",	
+"https://www.google.com/alerts/feeds/01881685235415088200/17068671559893515315": "Net-results Marketing",	
+"https://www.google.com/alerts/feeds/01881685235415088200/17068671559893514561": "Motive Interactive",	
+"https://www.google.com/alerts/feeds/01881685235415088200/4494309180953001895": "mFino",	
+"https://www.google.com/alerts/feeds/01881685235415088200/2826329624352299548":	"Magnet Forensics",
+"https://www.google.com/alerts/feeds/01881685235415088200/14317108868047637052": "Odyssey Entertainment",	
 "https://www.google.com/alerts/feeds/01881685235415088200/816948197205629415": "Jolly Technologies",	
 "https://www.google.com/alerts/feeds/01881685235415088200/816948197205627326": "Integrated Services",	
 "https://www.google.com/alerts/feeds/01881685235415088200/14807507605359057354": "iCIMS Software",	
