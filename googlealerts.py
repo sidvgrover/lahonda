@@ -10,6 +10,11 @@ from EmailDigestAPI import EmailDigestAPI
 
 LA_HONDA_ALERTS_URLS = {
 
+	
+	
+	
+"https://www.google.com/alerts/feeds/01881685235415088200/8926108154886683113": "Plex Media",	
+"https://www.google.com/alerts/feeds/01881685235415088200/10400854703670983658": "FrontPorch",	
 "https://www.google.com/alerts/feeds/01881685235415088200/14115942879497787873": "Polaris Wireless",
 "https://www.google.com/alerts/feeds/01881685235415088200/2130808873652481474": "PK4 Media",	
 "https://www.google.com/alerts/feeds/01881685235415088200/2130808873652479174": "Palo Alto Software",	
@@ -93,7 +98,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/13466654299695330520/8376314018692697355": "AirSage",
 "https://www.google.com/alerts/feeds/13466654299695330520/6041566515100935622": "Annik",
 "https://www.google.com/alerts/feeds/13466654299695330520/17322655652350211912": "AppThis",
-"https://www.google.com/alerts/feeds/13466654299695330520/17322655652350213900": "Aquatic Informatics",
 "https://www.google.com/alerts/feeds/13466654299695330520/15496921446059433317": "ARCA cash",
 "https://www.google.com/alerts/feeds/13466654299695330520/9631845521440810943": "Avanade", 
 "https://www.google.com/alerts/feeds/13466654299695330520/16343642913285857719": "Balihoo",
