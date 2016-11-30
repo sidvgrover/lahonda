@@ -11,8 +11,20 @@ from EmailDigestAPI import EmailDigestAPI
 LA_HONDA_ALERTS_URLS = {
 
 	
-	
-	
+"https://www.google.com/alerts/feeds/01881685235415088200/3705460014693924276": "Persio",	
+"https://www.google.com/alerts/feeds/01881685235415088200/8159947520343534399": "Nextpoint",	
+"https://www.google.com/alerts/feeds/01881685235415088200/499494254267440870": "Load Delivered",	
+"https://www.google.com/alerts/feeds/01881685235415088200/499494254267437666": "L2T Media",	
+"https://www.google.com/alerts/feeds/01881685235415088200/499494254267437494": "Gorilla Group",	
+"https://www.google.com/alerts/feeds/01881685235415088200/14896185663731945744": "1185 Design",	
+"https://www.google.com/alerts/feeds/01881685235415088200/5189971791098822960": "Sikka Software",	
+"https://www.google.com/alerts/feeds/01881685235415088200/7096444430998810942": "SiftShopping",	
+"https://www.google.com/alerts/feeds/01881685235415088200/1670163236829257058": "RoweBots",	
+"https://www.google.com/alerts/feeds/01881685235415088200/3194799286830201245": "RevGuard",
+"https://www.google.com/alerts/feeds/01881685235415088200/3088492595662771291": "ProcessMaker",	
+"https://www.google.com/alerts/feeds/01881685235415088200/3426160054791121083": "Prizm Media",	
+"https://www.google.com/alerts/feeds/01881685235415088200/8787370919617563315": "Optimal Design",	
+"https://www.google.com/alerts/feeds/01881685235415088200/17094137868519063378": "mHealthCoach",	
 "https://www.google.com/alerts/feeds/01881685235415088200/8926108154886683113": "Plex Media",	
 "https://www.google.com/alerts/feeds/01881685235415088200/10400854703670983658": "FrontPorch",	
 "https://www.google.com/alerts/feeds/01881685235415088200/14115942879497787873": "Polaris Wireless",
