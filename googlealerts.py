@@ -269,7 +269,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/10010665971850991801":    "Schedulicity",
 "https://www.google.com/alerts/feeds/02062406705762041312/10010665971850993571":    "Rolith",
 "https://www.google.com/alerts/feeds/02062406705762041312/692729505549121703":  "Referral Saasquatch",
-"https://www.google.com/alerts/feeds/02062406705762041312/692729505549121730":  "RedBubble",
 "https://www.google.com/alerts/feeds/02062406705762041312/17193276624174069073":    "Recorded Future",
 "https://www.google.com/alerts/feeds/02062406705762041312/8436229574644343393": "Recommind",
 "https://www.google.com/alerts/feeds/02062406705762041312/1759710790041120949": "Realty Mogul",
