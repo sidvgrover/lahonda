@@ -336,7 +336,6 @@ LA_HONDA_ALERTS_URLS = {
 "https://www.google.com/alerts/feeds/02062406705762041312/7903596616217594296": "BigML",
 "https://www.google.com/alerts/feeds/02062406705762041312/12766643275826260061": "BuildDirect",
 "https://www.google.com/alerts/feeds/02062406705762041312/3811454850071931956": "Comodo",
-"https://www.google.com/alerts/feeds/02062406705762041312/9919732738508485209": "Couchbase",
 "https://www.google.com/alerts/feeds/02062406705762041312/4350246155083242847": "Coupa Software",
 "https://www.google.com/alerts/feeds/02062406705762041312/9454263677642889586": "EngagePoint",
 "https://www.google.com/alerts/feeds/02062406705762041312/17193276624174070004": "Enterprise Engineering",
